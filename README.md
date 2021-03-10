@@ -18,8 +18,8 @@
 
 ## Redis
 
-[布隆过滤器]
+[布隆过滤器原理](./redis/bloom_filter.md)
 
 ## 数据库
 
-[mysql索引失效问题]
+[mysql索引失效问题](./db/mysql/index_invalidation.md)
